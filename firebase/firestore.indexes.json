@@ -1,0 +1,32 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "PRODUCTO",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "creador",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "FECHACREADA",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "PRODUCTO",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "GUARDAR",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "FECHACREADA",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}

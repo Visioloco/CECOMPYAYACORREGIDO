@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "909003150187",
+    "project_id": "cecompraya-d44ee",
+    "storage_bucket": "cecompraya-d44ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909003150187:android:1b49769bf432874edff22e",
+        "android_client_info": {
+          "package_name": "com.mycompany.cecompraya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPDc3YhSCWrFKb9hNRgJgpmOzl4TUSkn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
